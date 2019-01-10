@@ -32,3 +32,4 @@ converts `json` payloads to the `tfvars` format in order to work around this
 issue.
 
 See: https://github.com/hashicorp/terraform/issues/15549 for more information
+
